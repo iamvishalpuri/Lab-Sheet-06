@@ -2,11 +2,11 @@
 using namespace std;
 int main() {
     int n, i, s = 0;
-    cout << "Enter size: "; 
+    cout << "Enter size: ";
     cin >> n;
     int a[10];
     cout << "Enter elements:\n";
-    for(i = 0; i < n; i++) {
+    for (i = 0; i < n; i++) {
         cin >> a[i];
         s += a[i];
     }
