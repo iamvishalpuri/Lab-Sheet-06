@@ -16,3 +16,9 @@ int main() {
     cout << endl;
     return 0;
 }
+
+Output
+Enter size : 5
+Enter elements :
+10 20 30 40 50
+Reversed : 50 40 30 20 10

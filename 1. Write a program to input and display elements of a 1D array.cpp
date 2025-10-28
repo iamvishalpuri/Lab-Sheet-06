@@ -14,3 +14,9 @@ int main() {
     cout << endl;
     return 0;
 }
+
+Output
+Enter size : 5
+Enter 5 elements :
+10 20 30 40 50
+Array : 10 20 30 40 50

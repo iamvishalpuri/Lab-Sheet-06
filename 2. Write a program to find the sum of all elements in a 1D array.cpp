@@ -13,3 +13,9 @@ int main() {
     cout << "Sum = " << s;
     return 0;
 }
+
+Output
+Enter size : 4
+Enter elements :
+5 10 15 20
+Sum = 50

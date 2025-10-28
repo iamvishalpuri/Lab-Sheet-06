@@ -16,3 +16,9 @@ int main() {
     cout << "Max = " << max << ", Min = " << min << endl;
     return 0;
 }
+
+Output
+Enter size : 6
+Enter elements :
+3 8 1 9 4 2
+Max = 9, Min = 1

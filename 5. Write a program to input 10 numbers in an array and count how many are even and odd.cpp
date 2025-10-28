@@ -10,3 +10,8 @@ int main() {
     cout << "Even: " << e << ", Odd: " << o << endl;
     return 0;
 }
+
+Output
+Enter 10 numbers:
+1 2 3 4 5 6 7 8 9 10
+Even : 5, Odd : 5

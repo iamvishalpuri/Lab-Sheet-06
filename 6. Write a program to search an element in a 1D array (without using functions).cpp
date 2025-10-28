@@ -17,3 +17,10 @@ int main() {
     else cout << "Not found\n";
     return 0;
 }
+
+Output
+Enter size : 5
+Enter elements :
+10 20 30 40 50
+Enter element to search : 30
+Found at index 2
